@@ -1,4 +1,4 @@
-<ins>**HR Analytics Power BI Report**</ins>
+<ins>**HR Analytics Power BI Dashboard**</ins>
 
 **Overview**
 This Power BI report provides insights into HR analytics, focusing on employee attrition, age distribution, and education-related trends. The visualizations cover various aspects of workforce management.
